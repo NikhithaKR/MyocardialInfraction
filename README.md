@@ -8,3 +8,5 @@ https://github.com/NikhithaKR/MyocardialInfraction/blob/main/Myocardial%20infarc
 https://github.com/NikhithaKR/MyocardialInfraction/blob/main/Project%20201.ipynb
 # deployment 
 here we used 3 models for deployment process. we again re arrange the the dataste  and deployment used streamlit.
+# input file formate, UI file.
+
